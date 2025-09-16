@@ -33,7 +33,11 @@ o         [Operations Research SOlver]
   </tr>
   <tr>
     <td colspan="2" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nick2711&theme=tokyonight" alt="GitHub Streak" /></a>
+    <div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Nick2711&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+</div>
     </td>
   </tr>
 </table>
